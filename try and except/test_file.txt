@@ -1,0 +1,4 @@
+We've all run into errors and exceptions while writing Python programs. In this video, we will learn how we can handle exceptions in specific ways and also look at the control flow of a try/except/else/finally statement. Understanding how to properly handle errors will provide us with the tools to make better software in the future. Let's get started.
+
+The code from this video can be found at:
+https://github.com/CoreyMSchafer/code...​
