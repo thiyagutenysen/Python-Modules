@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x  3 chella chella 4096 Feb 20 01:10 .
+drwxr-xr-x 11 chella chella 4096 Feb 23 17:06 ..
+drwxr-xr-x  2 chella chella 4096 Feb 19 22:05 .ipynb_checkpoints
+-rw-rw-r--  1 chella chella    0 Feb 23 17:45 log.txt
+-rw-rw-r--  1 chella chella 2997 Feb 20 01:10 run_commands_in_linux.py
